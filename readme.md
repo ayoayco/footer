@@ -1,1 +1,3 @@
 # FOOTER BEHAVIOR TEMPLATE
+
+This repository contains files I created when studying workflow using Visual Studio Code, npm packages, nodejs webserver...
