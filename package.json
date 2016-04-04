@@ -1,4 +1,25 @@
 {
-  "name": "footer-behavior-template",
-  "version": "1.0.0"
+  "name": "footer-behavior",
+  "version": "1.0.0",
+  "description": "This repository contains files I created when studying workflow using Visual Studio Code, npm packages, nodejs webserver...",
+  "main": "webserver.js",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "bootstrap": "^3.3.6",
+    "serve-static": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoayco/footer.git"
+  },
+  "author": "Ayo AYco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoayco/footer/issues"
+  },
+  "homepage": "https://github.com/ayoayco/footer#readme"
 }
